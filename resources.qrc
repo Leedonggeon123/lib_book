@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/yyyyy.jpg</file>
+    <file>ui_data/Images/ffff.jpg</file>
+    <file>ui_data/Images/rrrr.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/uutt.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/opop.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/ghghgh.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/mmm.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/uuu.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/rrrr.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/sss.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/xxx.png</file>
+    <file>ui_data/Images/ccc.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/ccc.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/bbb.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/library_animation.gif</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/zzz.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ui_data/Images/girl.jpg</file>
+    <file>ui_data/Images/kkk.jpg</file>
+  </qresource>
+</RCC>
